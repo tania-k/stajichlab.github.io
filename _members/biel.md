@@ -1,6 +1,6 @@
 ---
 name: Justin Biel, Ph.D.
-startdate: 2014-07-01
+startdate: YYYY-MM-DD
 enddate: YYYY-MM-DD
 image: /static/img/members/Biel.jpg
 altimage: /static/img/members/Biel_pb.jpg
