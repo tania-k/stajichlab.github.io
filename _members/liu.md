@@ -5,12 +5,12 @@ enddate: YYYY-MM-DD
 image: /static/img/members/Liu.jpg
 altimage: /static/img/members/Liu_pb.jpg
 position: Staff Scientist
-#current:  update once you become an alumnus
+current:
 pronouns: she/her/hers
 email: lin.liu (at) ucsf.edu
 scholar: 5kUDcJ0AAAAJ
 website:
-UCSF: lin.liu
+UCSF:
 twitter:
 github: lliu1234
 orcid:
