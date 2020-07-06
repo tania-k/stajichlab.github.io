@@ -1,18 +1,18 @@
 ---
 name: Lillian Kenner, Ph.D.
-startdate: 2011-01-01
-enddate: 2014-09-01
+startdate: 2011-MM-DD
+enddate: 2014-09-DD
 image:
 altimage:
 position: Specialist
 current: Postdoctoral Fellow - Dueber Lab @ Genentech
 pronouns:
 email:
-scholar: UrlSRv0AAAAJ
+scholar:
 website:
 UCSF:
 twitter:
 github:
-orcid: 0000-0002-8004-9730
+orcid:
 description:
 ---

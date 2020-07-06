@@ -1,7 +1,7 @@
 ---
 name: Khanh Vuu
-startdate: 2012-MM-DD
-enddate: 2013-MM-DD
+startdate: 2012-XX-XX
+enddate: 2013-XX-XX
 image:
 altimage:
 position: Assistant Specialist
