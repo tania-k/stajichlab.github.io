@@ -1,7 +1,7 @@
 ---
 name: Ralp Basilio
-startdate: 2016-06-01
-enddate: 2018-08-01
+startdate: 2016-MM-DD
+enddate: 2018-MM-DD
 position: Summer Student
 current: Undergraduate @ San Jose State University
 ---

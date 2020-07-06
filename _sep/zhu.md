@@ -1,7 +1,7 @@
 ---
 name: Vanessa Zhu
-startdate: 2018-06-01
-enddate: 2019-08-01
+startdate: YYYY-MM-DD
+enddate: 2018-MM-DD
 position: Summer Student
 current: Undergraduate @ UC Los Angeles
 ---
