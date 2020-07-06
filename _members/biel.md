@@ -1,16 +1,11 @@
 ---
 name: Justin Biel, Ph.D.
-startdate: YYYY-MM-DD
-enddate: YYYY-MM-DD
 image: /static/img/members/Biel.jpg
 altimage: /static/img/members/Biel_pb.jpg
-position: Staff Scientist
-current:
 pronouns: he/him/his
+position: Staff Scientist
 email: justin.biel (at) ucsf.edu
 scholar: FatB6VQAAAAJ
-website:
-UCSF:
 twitter: thebieldeal
 github: bielj
 orcid: 0000-0002-0935-8362
