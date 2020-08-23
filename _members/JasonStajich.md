@@ -8,7 +8,7 @@ position: Principal Investigator
 #current:
 pronouns: he/him/his
 email: jason.stajich (at) ucr.edu
-scholar: j3iaoR8AAAAJ
+scholar: t_YIP5UAAAAJ
 website:
 twitter: stajichlab
 linkedin: 
