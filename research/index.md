@@ -1,98 +1,37 @@
 ---
-title: Research in the Fraser Lab
+title: Research in the Stajich Lab
 layout: default
 group: research
 ---
 
-<!-- <img class="img-fluid mx-auto d-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form">
- -->
-<div class="row">
+# Our research topics
+## Sequencing the fungal kingdom
+I am co-leading projects to sequence more than 1000 fungal genomes ([1KFG](http://1000.fungalgenomes.org/)) in order to sample evolutionary and ecological diversity of the kingdom. This is enabled through the CSP the JGI and their sequencing capacity and exploration of new technologies. My research is focused on evolution of the early branching fungi and supporting this by culturing and obtaining DNA from these lineages in collaboration with several projects including the [ZyGoLife Research Collaborative](http://zygolife.org/) and individual labs working on chytrid fungi. We are applying phylogenetic methods to these large datasets and developing tools to extract informative data from a variety of sequencing strategies. Our data and code are made available on these sites. [[stajichlab github](https://github.com/stajichlab)] [[hyphaltip github](https://github.com/hyphaltip)] [[1KFG github](https://github.com/1KFG)]
 
-# Our research
-The long-term goals of our research are to understand how protein conformational ensembles are reshaped by chemical, genetic, and physical perturbations. We seek to quantify how these perturbations impact protein function and organismal fitness. We are best known for creating multitemperature X-ray data collection approaches, which are especially powerful when paired with multiconformer computational modeling to reveal otherwise inaccessible features of conformational ensembles. Our group integrates high resolution structural biology (X-ray, EM, NMR), functional studies (deep mutational scanning, enzymology), and computation to study biological mechanisms and to improve protein engineering and small molecule discovery. Group members move fluidly between computation and experiment, often inventing new methods to answer their questions. 
+## Evolution of fungal cell wall
+The cell wall protects and partitions the cell’s internal components from the outside world, but is permeable allowing materials and chemical signals to be transported.  The composition of the cell wall varies across the fungal kingdom from the aquatic chytrids to the zygomycetes, and ascomycete and basidiomycete fungi. We  seek to describe the differences in cell walls comparing lineages of early branching fungi and understand the evolution of the genes that synthesize and assemble the cell wall components.  We will use enzymatic and imaging approaches to visualize and quantify cell wall composition in a variety of fungi and connect this to genome composition of cell wall biosynthesis, remodeling, and related genes via genome sequencing and comparative genomics. This work extends from our work on the early diverging chytrid fungi like Batrachochytrium dendrobatidis (Bd) and interest in how fungi evade detection from plant or animal defense and immune systems through modifications in the cell wall.
 
-#### We work on many different systems and proteins as we find ourselves drawn, again and again, to the tension of high resolution data in structural biology: as resolution gets better, modeling becomes easier... until the resolution gets too good... and then the ensemble begins to reveal itself and the fun challenges begin.
-<br>
-<br>
+## Evolution of multicellularity
+The evolution of multicellular structures in fungi is the result of many changes in cell wall structure and adhesion, gene regulation for development and tissue differentiation, and signaling pathways that allow for specific responses from differentiated tissues. How these changes evolved in the fungi from what was likely a single-cell ancestor into the multitude of forms of fungi we can observe as molds, mushrooms, smuts, rusts, lichens, and yeasts.  We hope to unravel the evolutionary process in more detail exploring the lineage-specific pathways, new aspects of gene regulation and signaling, and evolutionary changes in cell wall biosynthesis and maintence that will help delineate what is required to form multicellular structures in the extant fungi.  We are focused on flagellated Chytridiomycota and Blastocladiomycota fungi to study early changes in the fungi in addition to comparisons of independent origins of multicellularity in Taphrinamycotina, Pezizomycotina (Ascomycota) and within the Basidiomycota fungi.
 
-</div>
+## Transposons, gene duplication, and genome evolution
+What role does duplication play in genome evolution?   We are interested in quantifying how much change in gene family size/membership is due to neutral evolution and what kinds of gene family size changes are driven by direction selection.  Conversely are gene families that rarely change in size under purifying selection for copy number?
 
-<div class="row">
+How do mechanism that control transposon and retroviral element proliferation in fungal genomes impact how gene families can expand and does this impact evolutionary adaptability by duplication?  In some fungi including N. crassa there are pathways limiting duplication including Repeat Induced Point mutations ([RIP](http://fungalgenomes.org/wiki/RIP)) and meitoic silencing of unpaired DNA ([MSUD](http://fungalgenomes.org/wiki/MSUD)).  How do gene families evolve in these fungal lineages and what strategies for replication have succeeded for some transposon families?
 
-### Identifying hidden alternative conformations of proteins and ligands in biophysical data
+As part of this work we are also interested in the evolution of mobile elements in fungi with highly effective genome defense mechanisms.  Our lab is investigating variations in the frequency of transposable elements and the history of genome invasion events among different fungal phyla and the interplay with genome defense evolution.
 
-<div class="col-md-7 order-md-1">
+This work also links to two projects.
 
-We study proteins as conformational ensembles.
-Although X-ray crystallography is an ensemble experiment, the results are typically summarized with a single static structure.
-We develop [software](https://github.com/ExcitedStates/qfit-3.0) to discover the structural ensembles present in the crystal (or on the EM grid).
-The ensemble nature of proteins highlighted by this work feeds into all of our mechanistic studies that interpret the functional effects of mutations, that characterize designed and artificially-evolved proteins, or that seek to modulate protein function with small molecules.
-These methods development efforts are central to discovering new allosteric ligands, through high throughput crystallographic fragment screening efforts.
-We are expanding, this direction to include modeling and validating protein structural data generated by cryoelectron microscopy (using EMRinger and ensemble modeling) and through integrative approaches to discover cryptic ligand binding sites. 
-These methods development efforts are central to discovering new allosteric ligands, through high throughput crystallographic fragment screening efforts.
+- One is the phenotypic impact of transposon expansion in rice which is a collaboration with the [Wessler lab](http://wesslerlab.ucr.edu/) at UCR, and [Tom Brutnell](http://bti.cornell.edu/TomBrutnell.php) at the Boyce Thompson Institute and [Qi Sun](http://cbsu.tc.cornell.edu/staff/qisun/) at Cornell and funded by the [NSF](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1027542) ([UCR press release](http://newsroom.ucr.edu/news_item.html?action=page&id=2583)).
+- The second is a project on identifying active transposons in mosquitos and is work with the [Wessler](http://wesslerlab.ucr.edu/) and [Atkinson](http://www.facultydirectory.ucr.edu/cgi-bin/pub/public_individual.pl?faculty=86) labs at UCR ([UCR press release](http://newsroom.ucr.edu/news_item.html?action=page&id=2549)).
 
-</div>
-<div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="qFit">
-</div>
-</div>
-<div class="row">
+## Methods for comparative and population genomics
+Genome sequencing so affordable and accessible that nearly any fungal genome can be sequenced.  Managing the data from the currently over 100 fungal genomes and integrating new data requires disciplined software and data management approaches.  We build tools to mining these data to address research questions from phylogenetics and systematics, molecular evolution and population genetics, to predicting metabolic and enzymatic capabilities. Aspects of this work will be presented in databases useful to the community at the site we manage [http://fungalgenomes.org](http://fungalgenomes.org/) that include some genome browsers and wiki tools.
 
-### Using multi-temperature X-ray data collection methods in mechanistic studies and ligand discovery campaigns
+We also work in collaboration with the [EuPathDB](http://eupathdb.org/) group to build a new resource called [FungiDB](http://fungidb.org/) which enables data mining functional & comparative fungal genomic data. This project, funded by the [Burroughs Wellcome Fund](http://www.bwfund.org/), went live with a new website in March 2011.
 
-<div class="col-md-7 order-md-2">
+Our lab is also engaged in analysis of whole genome resequencing data to study population genomics of some animal pathogens to better understand genome dynamics and populations, especially in emerging infections diseases such as *Bd*.
 
-We recognized that the standard practice of cryocooling crystals could distort protein conformations.
-In both larger surveys and isolated mechanistic studies, we have demonstrated the value of room temperature data collection for revealing the structural basis of protein conformational dynamics, leading to new insights into enzymes, and increasing connections to dynamics studies from NMR and simulations.
-Additionally, we have identified how temperature can bias small molecule discovery, leading some fragment sites inaccessible at cryogenic temperatures and repositioning critical water molecules.
-</div>
-
-<div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2018_keedy_hill.jpg" alt="ptp1b">
-</div>
-</div>
-<div class="row">
-
-### Determining structures that influence microbial-host interactions
-
-<div class="col-md-7 order-md-1 ">
-
-We are interested in the structural enzymology and potential therapeutic applications of the human enzymes that degrade chitin, the pervasive polymer that can cause inflammation in the context of allergy and asthma. Using high resolution cryo electron microscopy, we are studying the mechanisms of action to newly synthesized antibiotics (in collaboration with the Seiple and Fujimori labs). With this platform, we are also pushing on cryoEM data processing and refinement methods to enable structure-based drug design, now acheiving resolutions better than 2.0 Å. With the improved molecules we generate, we are defining potential resistance mechanisms to these antibiotics using a combination of structural biology and deep mutational scanning experiments. In recent work, we are collaborating with the Bondy-Denomy lab to define the structural basis of anti-CRISPR proteins using a combination of X-ray crystallography, cryoEM, and NMR. The mechanism of action for many of these proteins remains mysterious.
-</div>
-
-<div class="col-md-3 order-md-2 align-self-center">
-
-<img class="img-fluid" src="/static/img/pub/2019_li_pellegrino.jpg" alt="antibiotic">
-</div>
-</div>
-<div class="row">
-
-### Identifying unifying concepts between systems and structural biology
-
-<div class="col-md-7 order-md-2">
-
-
-We are intrigued by the similarities in genetic epistasis and thermodynamic measurements and are applying these insights to large-scale studies of point mutants and posttranslational modifications. We attempt to connect the response to genetic (mutation), chemical (ligands), and physical (temperature) in experiments to define the basis of allosteric regulation and function. We like to bring an evolutionary biology perspective to the table to understand the relative importance of these different perturbations in shaping the proteins we see today.
-</div>
-
-<div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_rezelj.png" alt="hairball">
-</div>
-</div>
-<div class="row">
-
-### Creating new time-resolved experiments to probe correlated motions in proteins
-
-<div class="col-md-7 order-md-1">
-
-A major limitation of most biophysical techniques is the inability to directly reveal correlations in motions between distinct regions of macromolecules.
-We are taking advantage of the new capabilities of next-generation X-ray free electron laser (X-FEL) light sources to perform radiation damage-free imaging of proteins and to watch how protein ensembles respond when perturbed by rapid temperature jumps using the X-FEL.
-At equilibrium, X-ray diffuse scattering has the potential to reveal these motions; however, we currently lack the ability to collect, integrate, and refine diffuse scattering data.
-Our long-term goal is to increase the information content of every X-ray diffraction experiment to reveal atomic level coupling at high resolution and improved models of grouped flexibility at low resolution.
-</div>
-
-<div class="col-md-5 order-md-2 align-self-center ">
-<img class="img-fluid" src="/static/img/pub/2019_thompson.jpg" alt="tjump">
-</div>
-
-</div>
+## Post-Transcriptional Gene Regulation in Fungi
+Gene regulation occurs at many levels in the cell.  Understanding the players and role of transcriptional and post-transcriptional regulation controlling development in fungi will provide insight into the evolution of development. We are exploring the role of smallRNAs in fungi and how they play a role in regulation of gene expression controlling development. This work is performed in the filamentous fungus *Neurospora crassa* applying genetic and genomic tools.
