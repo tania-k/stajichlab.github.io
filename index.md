@@ -4,6 +4,7 @@ layout: home
 group: home
 ---
 
+## About us
 {: .display-4}
 Stajich lab is part of the [Department of Microbiology and Plant Pathology](https://microplantpath.ucr.edu), [Institute for Integrative Genome Biology](https://iigb.ucr.edu), [Center for Plant Cell Biology](https://cepceb.ucr.edu) at [University of California Riverside](https://ucr.edu). 
 {: .welcomefont}
