@@ -22,7 +22,7 @@
 #  link: "/compact"
 #  group: compact
 
-- name: news
+- name: News
   link: "/news"
   group: news
 
