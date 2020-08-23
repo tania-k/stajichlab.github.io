@@ -4,7 +4,7 @@ layout: default
 group: courses
 ---
 
-# Fraser Lab Lab Courses
+# Stajich Lab Lab Courses
 
 The Fraser lab is supportive of learning through research experiences, and has participated in a number of courses for first year graduate students which challenge students with real research challenges in which they conduct experiments and analyze data to answer interesting new questions.
 
