@@ -5,16 +5,10 @@ title: Contact
 
 ### Contact the Fraser Lab
 
-James Fraser, Ph.D.
+Jason E. Stajich, Ph.D.
 Professor
-Department of Bioengineering and Therapeutic Sciences
-California Institute of Quantitative Biosciences (QB3)
+Department of Microbiology and Plant Pathology
+Institute for Integrative Genome Biology
 
-email: jfraser (#!) fraserlab.com
-tel: 415 493 842 one
-fax: 415 514 016 nine
-
-Genentech Hall Room S472E (Office), S476 (Lab)
-UCSF Mail Code 2240
-600 16th Street
-San Francisco, CA 94158
+email: jason.stajich (AT) ucr.edu
+tel: +1 951-827-2363
