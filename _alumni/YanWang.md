@@ -8,7 +8,7 @@ position: Postdoctoral Fellow
 subsequent: Assistant Professor @ University of Toronto
 #pronouns: 
 email: yanxw.wang (at) utoronto.ca
-scholar: IRgAp8AAAAJ
+scholar: -IRgAp8AAAAJ
 website:
 UCSF:
 twitter: funganoomics
