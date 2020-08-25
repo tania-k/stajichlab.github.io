@@ -27,6 +27,8 @@ exclude:
 collections:
         members:
                 output: true
+        pubs:
+                output: true
         publications:
                 output: true
         alumni:
