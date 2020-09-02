@@ -1,5 +1,8 @@
 # stajichlab.github.io
+Stajich Lab website
 ====================
+
+Forked from https://github.com/fraser-lab/fraser-lab.github.io
 
 Technologies this website uses:  
 
