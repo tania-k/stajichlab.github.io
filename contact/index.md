@@ -7,8 +7,7 @@ group: contact
 # Contact the Stajich Lab
 Jason E Stajich, PhD <br>
 Professor, Dept of Microbiology and Plant Pathology <br>
-Chair, Graduate Council (2018-2020) <br>
-Chair Elect, Academic Senate, UC Riverside Division <br>
+Chair, Academic Senate, UC Riverside Division <br>
 University of California, Riverside <br>
 
 jason.stajich (AT) ucr.edu
