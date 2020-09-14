@@ -4,7 +4,7 @@
 
 Files associated with Lab practices are provided here.
 
-The lab general [Code of Conduct](CODE_OF_CONDUCT.md) provides an outline for what are expected behaviors and respect regarding our interactions.
+The lab general [Code of Conduct](Data_and_code/CODE_OF_CONDUCT.md) provides an outline for what are expected behaviors and respect regarding our interactions.
 
 ## Data and Code SOPs
 
@@ -12,7 +12,7 @@ The Data and Code Procedures provide an outline on how data management, submissi
 
 ### General Procedures
 
-* [Coding Best Practices](Best_Practices_Coding)
+* [Coding Best Practices](Data_and_code/Best_Practices_Coding)
 * Electronic Lab Noteboooks
 * [How to Create an SOP](How_to_create_an_SOP)
 
