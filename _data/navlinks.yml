@@ -30,6 +30,10 @@
   link: "/join"
   group: join
 
+- name: SOP
+  link: "/SOP"
+  group: SOP
+
 - name: Contact
   link: "/contact"
   group: contact
