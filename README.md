@@ -1,5 +1,8 @@
+# Stajich Lab website
+
+This is a repository for Stajich lab website.
+
 # stajichlab.github.io
-Stajich Lab website
 ====================
 
 Forked from https://github.com/fraser-lab/fraser-lab.github.io
