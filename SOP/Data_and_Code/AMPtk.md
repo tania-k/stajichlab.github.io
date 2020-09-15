@@ -82,7 +82,7 @@ There are several different file format that could be generated from Illumina Mi
 - remove (trim) primer sequences
 - if sequence is longer than --trim_len, truncate sequence
 
-![](static/img/SOP/merge.jpg){:.img-fluid}
+![](../../static/img/SOP/merge.jpg){:.img-fluid}
 [Merged PE reads](https://www.drive5.com/usearch/manual10/merge_pair.html)
 
 You can use `nano` editor to simply create `01_AMPtk_ITS.sh` script by copyign following command to `nano` and save the sceript in `pipeline` folder.
@@ -127,7 +127,7 @@ fi
 
 
 ### STEP 2. Clustering
-![](static/img/SOP/uparseotu_algo.jpg){:.img-fluid}
+![](../../static/img/SOP/uparseotu_algo.jpg){:.img-fluid}
 [Clustering](https://www.drive5.com/usearch/manual/uparseotu_algo.html)
 
 This step will cluster sequences into Operational Taxonomy Unit (OTU), then generate representative OTU sequences and OTU table. OTU generation pipelines in AMPtk uses UPARSE clustering with 97% similarity (this can be changed).
