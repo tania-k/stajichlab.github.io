@@ -1,4 +1,4 @@
-## Stajich Laboratory Standard Operating Proceures (SOP)
+## Stajich Laboratory Standard Operating Procedures (SOP)
 
 ![SOP Logo](/static/img/SOP/SOP_card.jpg){:.img-fluid}
 
@@ -6,13 +6,11 @@ Files associated with Lab practices are provided here.
 
 The lab general [Code of Conduct](Data_and_Code/CODE_OF_CONDUCT.md) provides an outline for what are expected behaviors and respect regarding our interactions.
 
-## Data and Code SOPs
-
 The Data and Code Procedures provide an outline on how data management, submissions, and source code are expected to be handled.
 
 ### General Procedures
 
-* [Coding Best Practices](Data_and_code/Best_Practices_Coding)
+* [Coding Best Practices](Data_and_Code/Best_Practices_Coding)
 * Electronic Lab Noteboooks
 * [How to Create an SOP](Data_and_Code/How_to_create_an_SOP)
 
