@@ -2,7 +2,7 @@
 name: Nat Pombubpa
 startdate: YYYY-MM-DD
 enddate: YYYY-MM-DD
-image: /static/img/members/Pombubpa.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/members/Pombubpa.jpeg #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Role in Stajich Lab
 #subsequent:  update once you become an alumnus
