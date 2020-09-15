@@ -8,7 +8,7 @@ Although, this study has both 16S and ITS amplicon data, we will perform data pr
 Data are already available on stajichlab UCR HPCC. We will set up our analysis folder using following instructions.
 
 [Sequencing setup](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090234#)
-![](static/img/SOP/primer_setup.png){:.img-fluid}
+![](../../static/img/SOP/primer_setup.png){:.img-fluid}
 
 ITS primers for this project contain unique barcode for each sample. We usually submit ~250 samples per illumina miseq run. After sequencing process, the barcodes will be used to split sequences into fastq file for each sample.
 
