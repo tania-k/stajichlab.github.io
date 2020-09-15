@@ -93,10 +93,10 @@ cd ~/.html/jbrowse
 ```
 Running a quick ls -l on your path should show you this.
 
-![](../img/Jbrowse_Homescreen.png)
+![](../../static/img/SOP/Jbrowse_Homescreen.png){:.img-fluid}
 
 Check and see if the site has loaded on the HPCC hosted website. Here is my [cluster page - https://cluster.hpcc.ucr.edu/~tkurb001/](https://cluster.hpcc.ucr.edu/~tkurb001/)
-![](../img/Tania_HPCC.png)
+![](../../static/img/SOP/Tania_HPCC.png){:.img-fluid}
 
 Click on jbrowse2 to take you to the created page. This is my example run, your html link should be https://cluster.hpcc.ucr.edu/~YOURUSERNAME/ 
 
