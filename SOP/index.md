@@ -1,6 +1,6 @@
 ## Stajich Laboratory Standard Operating Proceures (SOP)
 
-![SOP Logo](/static/img/SOP/SOP_card.jpg)
+![SOP Logo](/static/img/SOP/SOP_card.jpg){:.img-fluid}
 
 Files associated with Lab practices are provided here.
 
